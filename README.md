@@ -1,5 +1,5 @@
 # Gojourney
-![LOGO](./images/logo.webp)
+![LOGO](./images/logo.png)
 Gojourney is a package for golang that provides api for midjourney. Using this SDK, you can easily interact with Midjourney.
 
 Support:
